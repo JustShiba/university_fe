@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JustShiba/university_fe/static/css/main.fd356a9b.css",
+    "main.js": "/JustShiba/university_fe/static/js/main.32e28c84.js",
+    "index.html": "/JustShiba/university_fe/index.html",
+    "main.fd356a9b.css.map": "/JustShiba/university_fe/static/css/main.fd356a9b.css.map",
+    "main.32e28c84.js.map": "/JustShiba/university_fe/static/js/main.32e28c84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd356a9b.css",
+    "static/js/main.32e28c84.js"
+  ]
+}
