@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/JustShiba/university_fe/static/css/main.fd356a9b.css",
-    "main.js": "/JustShiba/university_fe/static/js/main.595853db.js",
-    "index.html": "/JustShiba/university_fe/index.html",
-    "main.fd356a9b.css.map": "/JustShiba/university_fe/static/css/main.fd356a9b.css.map",
-    "main.595853db.js.map": "/JustShiba/university_fe/static/js/main.595853db.js.map"
+    "main.css": "/university_fe/static/css/main.fd356a9b.css",
+    "main.js": "/university_fe/static/js/main.595853db.js",
+    "index.html": "/university_fe/index.html",
+    "main.fd356a9b.css.map": "/university_fe/static/css/main.fd356a9b.css.map",
+    "main.595853db.js.map": "/university_fe/static/js/main.595853db.js.map"
   },
   "entrypoints": [
     "static/css/main.fd356a9b.css",
