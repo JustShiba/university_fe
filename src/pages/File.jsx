@@ -19,6 +19,8 @@ const FilePage = () => {
       localStorage.setItem('apiKey', data.response.apiKey);
       toast.success('Logged In');
       setIsLogin(true);
+    }).catch(({ response }) => {
+      toast.error(response.data.message);
     });
   };
 
